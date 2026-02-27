@@ -1,0 +1,161 @@
+PASSWORD SECURITY AUDIT REPORT
+Date: 2026-01-14 05:44:42.282890
+=============================================
+
+Password Tested: akash2000@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: akash2000!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: akash2000
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: akash2001@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: akash2001!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: akash2001
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: akash123@
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: akash123!
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: akash123
+Entropy Score: 41.36
+Strength Level: MEDIUM
+------------------------------
+Password Tested: admin2000@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: admin2000!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: admin2000
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: admin2001@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: admin2001!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: admin2001
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: admin123@
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: admin123!
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: admin123
+Entropy Score: 41.36
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2000@
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2000!
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2000
+Entropy Score: 41.36
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2001@
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2001!
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user2001
+Entropy Score: 41.36
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user123@
+Entropy Score: 48.7
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user123!
+Entropy Score: 48.7
+Strength Level: MEDIUM
+------------------------------
+Password Tested: user123
+Entropy Score: 36.19
+Strength Level: WEAK
+------------------------------
+Password Tested: sahil2000@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: sahil2000!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: sahil2000
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: sahil2001@
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: sahil2001!
+Entropy Score: 60.87
+Strength Level: STRONG
+------------------------------
+Password Tested: sahil2001
+Entropy Score: 46.53
+Strength Level: MEDIUM
+------------------------------
+Password Tested: sahil123@
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: sahil123!
+Entropy Score: 54.79
+Strength Level: MEDIUM
+------------------------------
+Password Tested: sahil123
+Entropy Score: 41.36
+Strength Level: MEDIUM
+------------------------------
+
+SUMMARY
+Total Passwords Tested: 36
+Weak Passwords Found: 1
+
+WEAK PASSWORD LIST
+- user123
+
+SECURITY RECOMMENDATIONS
+- Minimum password length: 12 characters
+- Use upper, lower, digits, symbols
+- Avoid names, DOB, usernames
+- Implement account lockout policies
